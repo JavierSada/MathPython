@@ -1,2 +1,3 @@
 # MathPython
-Just practicing Python with Math problems
+
+Just Practicing Python with some simple math problems
